@@ -44,5 +44,5 @@ I have tested both a 9V Battery and a barrel jack but I have not tested the 18V/
 ![20230816_221459](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/0a040784-087d-47ef-89cf-df0fc1243408)
 ![20230812_165747](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/a589aa6d-1d60-4130-9684-163ea989bfdc)
 
-## Through Hole
+### Through Hole
 ![zoSVirV](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/812123d8-5999-4744-a643-89d6e8038d44)
