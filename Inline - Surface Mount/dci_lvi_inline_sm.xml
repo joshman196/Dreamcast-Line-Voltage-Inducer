@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Josh\Desktop\dc_lvi\dc_lvi.kicad_sch</source>
+    <date>7/23/2023 7:53:18 PM</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>dc_lvi.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.47uF 50v</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dc_lvi.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor, small US symbol"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0388677b-533d-469a-8a51-8b4e762ba7ff</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>9V DC</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dc_lvi.kicad_sch"/>
+      <property name="ki_description" value="DC Barrel Jack with an internal switch"/>
+      <property name="ki_keywords" value="DC power barrel jack connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0ecf73f-26f2-400b-9eb3-63a617d5f917</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RJ11</value>
+      <footprint>Connector_RJ:RJ25_Wayconn_MJEA-660X1_Horizontal</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dc_lvi.kicad_sch"/>
+      <property name="ki_description" value="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="ki_keywords" value="6P6C RJ socket connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78300847-00e9-4daa-93ca-3d18eb74bed3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RJ11</value>
+      <footprint>Connector_RJ:RJ25_Wayconn_MJEA-660X1_Horizontal</footprint>
+      <libsource lib="Connector" part="6P6C" description="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dc_lvi.kicad_sch"/>
+      <property name="ki_description" value="RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25"/>
+      <property name="ki_keywords" value="6P6C RJ socket connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7e16200-c7ac-4d77-a787-7b72f09c1116</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330R-380R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="dc_lvi.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>106495c1-0463-41bf-9f81-00fa7cf99c4a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="6P6C">
+      <description>RJ connector, 6P6C (6 positions 6 connected), RJ12/RJ18/RJ25</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>6P6C*</fp>
+        <fp>RJ12*</fp>
+        <fp>RJ18*</fp>
+        <fp>RJ25*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6P6C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+9V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="J3" pin="4" pintype="passive"/>
+    </net>
+    <net code="5" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="6" name="unconnected-(J2-Pad1)">
+      <node ref="J2" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="7" name="unconnected-(J2-Pad2)">
+      <node ref="J2" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="8" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="9" name="unconnected-(J2-Pad6)">
+      <node ref="J2" pin="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(J3-Pad5)">
+      <node ref="J3" pin="5" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
