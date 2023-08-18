@@ -39,10 +39,10 @@ I have tested both a 9V Battery and a barrel jack but I have not tested the 18V/
 ## Board Types/Pictures
 
 ### Surface Mount
-![WLwQWLT](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/10370181-e10c-40f7-9eb0-c1412f8678bd)
-![20230816_221538](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/17cfb2f4-990b-4af2-bd4e-485754a6cb1d)
-![20230816_221459](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/3300ed7b-8fe4-4ae7-95e4-ff06c91a18dc)
-![20230812_165747](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/9d41c3ec-2efd-40a4-bd71-18f31202e9e6)
+![WLwQWLT](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/7385febe-156f-481f-be75-710efa6102c5)
+![20230816_221538](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/e033147f-3bba-42b8-867b-b44a83a18f96)
+![20230816_221459](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/0a040784-087d-47ef-89cf-df0fc1243408)
+![20230812_165747](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/a589aa6d-1d60-4130-9684-163ea989bfdc)
 
-### Through Hole
-![zoSVirV](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/b0443b02-31bf-4470-aa6c-f5dc69cdcb2c)
+## Through Hole
+![zoSVirV](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/812123d8-5999-4744-a643-89d6e8038d44)
