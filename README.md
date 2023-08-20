@@ -5,14 +5,15 @@ Please note that while the Through Hole PCB should technically fit inside the ca
 
 Yes, I'm aware the Dreamcast Live USB Modem exists and will be the go-to solution for most people. This repository exists if you just want to DIY a line voltage inducer, in case you already have a compatible USB modem or just feel like doing it because you don't care.
 
-The text on the Surface Mount board is actually really small on the actual board, to the point that the "Red" silkscreen might not be readable in your case. You can use the picture below as a reference.
 ## Parts Required
 ### Surface Mount PCB
 - 1x 0.47uF 50V 0805 Ceramic Capacitor - [I used this one](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B474KBFNNNG/3894539)
 - 1x 360 Ohm 0805 Resistor - [I used this one](https://www.digikey.com/en/products/detail/yageo/RC0805FR-07360RL/727886)
+
 ### Through Hole PCB (Untested)
 - 1x 0.47uF 50V Through Hole Capacitor - [This *should* work](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860010672004/5726903)
 - 1x 360 Ohm Through Hole Resistor - [This *should* work](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF18JT360R/1741690)
+
 ### Both PCBs
 - 1x RJ11 coupler - [I used this one](https://www.amazon.com/dp/B09KX17R23?psc=1&)
 
@@ -26,6 +27,7 @@ The text on the Surface Mount board is actually really small on the actual board
 - 1x 9V Power Supply - [I used this one](https://www.amazon.com/dp/B0BLYS33ZP)
 
 I have tested both a 9V Battery and a barrel jack but I have not tested the 18V/2x9V batteries method for PAL consoles/modems as I do not own one. Theoretically, it should just work if you wire the batteries according to [this image](https://www.segasaturnshiro.com/wp-content/uploads/2022/06/LVI-PAL-1024x819.jpg). You can also (probably?) use an [18V power supply](https://www.amazon.co.uk/TKDY-Supply-Adapter-Electronics-Positive-Black/dp/B0BRPKVB5P/ref=sr_1_3?crid=2C0WTNA4J7N3&keywords=18v+power+supply&qid=1692327609&sprefix=18v+power+supp%2Caps%2C270&sr=8-3) with the barrel jack method.
+
 ## Install Guide
 1. Add the resistor and capacitor to the PCB.
 2. Open up the coupler by pulling both sides apart.
