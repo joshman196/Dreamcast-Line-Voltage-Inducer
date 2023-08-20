@@ -35,7 +35,7 @@ I have tested both a 9V Battery and a barrel jack but I have not tested the 18V/
 4. Solder both ends of the cut red wire each to the "Red" solder pads on the PCB. It doesn't matter which way they go.
 5. Solder the 9V battery snap or barrel jack pigtail to the "+" and "-" solder pads on the PCB. Make sure you solder the red lead to the "+" pad and the black lead to the "-" pad.
 6. This is probably optional, but I also wrap the PCB with kapton tape after soldering everything.
-7. Cut a hole in the side of the RJ11 coupler for the battery snap/barrel jack wires to fit through. I used an off-brand X-acto Knife to cut this hole.
+7. Cut a hole in the side of the RJ11 coupler for the battery snap/barrel jack wires to fit through. I used an off-brand X-acto Knife to cut this hole. Close/fit the coupler together after this.
 8. Plug the power supply/battery in, 2 phone lines for both ends of the coupler, and connect your Dreamcast to the internet! If you don't have a dedicated DreamPi or any kind of Raspberry Pi really, you can use [this method](https://www.dreamcast-talk.com/forum/viewtopic.php?t=12731) on a PC to get online. Use one of the community-recommended USB dial-up modems for this. In my case, I use a Zoom 3095 Modem, but there are others that will work.
 
 ## Board Types/Pictures
