@@ -32,7 +32,7 @@ I have tested both a 9V Battery and a barrel jack but I have not tested the 18V/
 1. Add the resistor and capacitor to the PCB.
 2. Open up the coupler by pulling both sides apart.
 3. Cut the red wire inside the RJ11 coupler and strip a bit of the insulation off both sides of it. You may be able to burn it off with a soldering iron if you can't work well with the limited space.
-4. Solder both ends of the cut red wire each to the "Red" solder pads on the PCB. It doesn't matter which way they go.
+4. Solder both ends of the cut red wire each to the "Red" solder pads on the PCB. It shouldn't matter which way they go.
 5. Solder the 9V battery snap or barrel jack pigtail to the "+" and "-" solder pads on the PCB. Make sure you solder the red lead to the "+" pad and the black lead to the "-" pad.
 6. This is probably optional, but I also wrap the PCB with kapton tape after soldering everything.
 7. Cut a hole in the side of the RJ11 coupler for the battery snap/barrel jack wires to fit through. I used an off-brand X-acto Knife to cut this hole. Close/fit the coupler together after this.
