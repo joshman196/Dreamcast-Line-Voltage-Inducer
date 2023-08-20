@@ -5,6 +5,8 @@ Please note that while the Through Hole PCB should technically fit inside the ca
 
 Yes, I'm aware the Dreamcast Live USB Modem exists and will be the go-to solution for most people. This repository exists if you just want to DIY a line voltage inducer, in case you already have a compatible USB modem or just feel like doing it because you don't care.
 
+![WLwQWLT](https://github.com/joshman196/Dreamcast-Line-Voltage-Inducer/assets/114156648/7385febe-156f-481f-be75-710efa6102c5)
+
 ## Parts Required
 ### Surface Mount PCB
 - 1x 0.47uF 50V 0805 Ceramic Capacitor - [I used this one](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B474KBFNNNG/3894539)
