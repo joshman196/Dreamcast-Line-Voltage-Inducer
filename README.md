@@ -1,4 +1,4 @@
-# Dreamcast Line Voltage Inducer
+# Dreamcast Line Voltage Inducer PCB
 PCBs designed to induce some voltage or something into an RJ11 telephone line to play Dreamcast games online. Comes in either a Surface Mount component PCB or a Through Hole component PCB. It's intended use case is to be hidden inside of a generic RJ11 coupler with the battery snap/barrel jack coming out of a hole that you cut and is tested for this purpose, but should be able to work on the method of cutting an RJ11 cable and soldering both sides of the red wire to the PCB.
 
 Please note that while the Through Hole PCB should technically fit inside the case of these generic couplers, it has not actually been tested to see if it will. It may be very tight. Basically, I really had the surface mount version in mind when this was designed. The Through Hole PCB should work in terms of actually functioning correctly, though.
